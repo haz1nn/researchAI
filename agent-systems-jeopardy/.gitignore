@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+.playwright-mcp/
+# per-task working state (keep the template, ignore live tasks)
+state/*/
+!state/.gitkeep
